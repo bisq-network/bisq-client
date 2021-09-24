@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: Please enter a brief summary of the issue
-labels: ''
+labels: needs:triage
 assignees: ''
 
 ---
